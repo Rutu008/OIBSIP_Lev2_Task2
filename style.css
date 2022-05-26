@@ -1,0 +1,36 @@
+h1,h2{
+    text-align: center;
+    font-family: Arial;
+
+}
+img{
+    box-shadow: 5px 10px 10px #a3a375;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: auto;
+    margin-bottom:20px;
+    ;
+}
+div{
+    box-shadow: 5px 10px 8px #a3a375;
+    opacity: 1.5;
+    text-align: justify;
+    
+
+}
+strong{text-align: center;}
+blockquote {
+    text-align: center;
+    margin-top: 50px;
+
+}
+body{
+    background-color: rgb(243, 178, 143);
+    background-position: center;
+    background-size: cover;
+    
+
+}
+#r{
+    margin-left: 10px;
+}
